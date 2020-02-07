@@ -5,6 +5,7 @@
 * [Homework #1](https://editor.p5js.org/suwon/sketches/C4ABahu8)
 
 ### Erica Kim
+* [Homework #1](https://editor.p5js.org/AerriecaKim/sketches/SyJ4qldH)
 
 ### Vivian Kong
 * [Homework #1](https://editor.p5js.org/wkong1/sketches/YAtoCHA_)
